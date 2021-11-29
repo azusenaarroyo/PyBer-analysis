@@ -1,4 +1,4 @@
-# PyBer-analysis
+# PyBer Analysis
 
 ## Overview of the Analysis
 This analysis will provide an overview of PyBer, a ride-sharing company's, total weekly fares by city type (Urban, Suburban, and Rural) from January 2019 to April 2019. In addition, we will explore the Total Rides, Total Drivers, Total Fares, Average Fare per Ride and Average Fare per Driver for each city type. 
